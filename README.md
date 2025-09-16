@@ -38,6 +38,9 @@
   - Разрешение конфликтов зависимостей
   - Поддержка как GPU, так и CPU-режимов
 
+<img width="1102" height="832" alt="image" src="https://github.com/user-attachments/assets/4a86929a-40e3-48d5-8f2e-3343325ab18c" />
+
+
 ## 📋 Системные требования
 
 ### Минимальные требования:
@@ -143,6 +146,9 @@ The application allows easy quantization of modern AI models for efficient use o
   - Compatible PyTorch installation
   - Dependency conflict resolution
   - Support for both GPU and CPU modes
+
+<img width="1102" height="832" alt="image" src="https://github.com/user-attachments/assets/e170c302-8620-4b86-a2ef-211ad5f992cb" />
+
 
 ## 📋 System Requirements
 

@@ -58,7 +58,7 @@
 
 1. **Клонирование репозитория:**
 ```bash
-git clone https://github.com/username/BNB4-Model-converter.git
+git clone https://github.com/LeDXIII/BNB4-Model-converter.git
 cd BNB4-Model-converter
 ```
 
@@ -167,7 +167,7 @@ The application allows easy quantization of modern AI models for efficient use o
 
 1. **Clone repository:**
 ```bash
-git clone https://github.com/username/BNB4-Model-converter.git
+git clone https://github.com/LeDXIII/BNB4-Model-converter.git
 cd BNB4-Model-converter
 ```
 

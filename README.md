@@ -25,7 +25,12 @@
 | Python | 3.10+ | 3.10+ |
 | ОЗУ | 8 GB | 16+ GB |
 | Диск | 50+ GB | SSD 50+ GB |
-| GPU | NVIDIA CUDA 8+ GB VRAM | NVIDIA CUDA 12+ GB VRAM |
+| GPU | NVIDIA CUDA 4+ GB VRAM | NVIDIA CUDA 8+ GB VRAM |
+
+
+<img width="903" height="832" alt="bnb4" src="https://github.com/user-attachments/assets/85cb9bf4-128a-4b4d-a79d-ee4c36d7090f" />
+
+
 
 ## 🛠 Установка
 
@@ -139,7 +144,12 @@ A user-friendly converter for quantizing AI models to 4-bit BNB format with a gr
 | Python | 3.10+ | 3.10+ |
 | RAM | 8 GB | 16+ GB |
 | Disk | 50+ GB | SSD 50+ GB |
-| GPU | NVIDIA CUDA 8+ GB VRAM | NVIDIA CUDA 12+ GB VRAM |
+| GPU | NVIDIA CUDA 4+ GB VRAM | NVIDIA CUDA 8+ GB VRAM |
+
+
+<img width="903" height="832" alt="bnb4" src="https://github.com/user-attachments/assets/1a0386cd-c7fa-41c6-8235-4dd95e4a64d7" />
+
+
 
 ### Installation
 

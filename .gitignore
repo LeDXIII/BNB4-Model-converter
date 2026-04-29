@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Output models
+output/
+
+# Settings
+gui_settings.json
+
+# Backup
+gui_backup.py
+*.pyc
+
+# Old dev folders
+разработка/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
